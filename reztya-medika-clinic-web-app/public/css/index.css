@@ -1,0 +1,234 @@
+@font-face {font-family: "Futura Md BT Bold";
+    src: url("//db.onlinewebfonts.com/t/1ffbed7089a941aa728bb970f3ad49f6.eot");
+    src: url("//db.onlinewebfonts.com/t/1ffbed7089a941aa728bb970f3ad49f6.eot?#iefix") format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/1ffbed7089a941aa728bb970f3ad49f6.woff2") format("woff2"),
+    url("//db.onlinewebfonts.com/t/1ffbed7089a941aa728bb970f3ad49f6.woff") format("woff"),
+    url("//db.onlinewebfonts.com/t/1ffbed7089a941aa728bb970f3ad49f6.ttf") format("truetype"),
+    url("//db.onlinewebfonts.com/t/1ffbed7089a941aa728bb970f3ad49f6.svg#Futura Md BT") format("svg"); }
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.selectable {
+    -webkit-touch-callout: default;
+    -webkit-user-select: text;
+    -khtml-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+.button-color {
+    background-color: #00A54F!important;
+    color: white !important;
+}
+
+.button-color:hover {
+    background-color: #008d44!important;
+}
+
+.button-outline-reztya {
+    border-color: #00A54F!important;
+    color: #00A54F !important;
+}
+
+.button-outline-reztya:hover{
+    background-color: #00A54F !important;
+    color: white !important;
+}
+
+.button-outline-ban-reztya {
+    border-color: #00A54F !important;
+    color: #00A54F !important;
+}
+
+.button-outline-ban-reztya:hover{
+    background-color: darkred !important;
+    border-color: darkred !important;
+    color: white !important;
+}
+
+.container-product{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.form-control:focus {
+    border-color: #00A54F !important;
+}
+
+.form-select:focus {
+    border-color: #00A54F !important;
+}
+
+.form-check-input:checked {
+    background-color: #00A54F !important;
+}
+
+.outline-reztya {
+    border-color: #00A54F !important;
+    box-shadow: 0 1px 5px 0 lightgray;
+}
+
+.text-reztya {
+    color: #00A54F !important;
+}
+
+.text-color-reztya {
+    color: #00A54F !important;
+}
+
+.text-reztya:hover {
+    color: #7DC241 !important;
+}
+
+.footer-text {
+    font-size: 12px;
+}
+
+.reztya-img-link {
+    max-width: 15%;
+}
+
+.reztya-img {
+    max-width: 80%;
+}
+
+b {
+    font-family: "Futura Md BT Bold", sans-serif;
+}
+
+.font-alander-reztya {
+    font-family: "Alander", sans-serif;
+}
+
+.font-futura-reztya {
+    font-family: "Futura Md BT", sans-serif;
+}
+
+.form-quantity {
+    width: 100px;
+}
+
+.profile-box {
+    width: 40rem;
+}
+
+.list-group-item {
+    border-color: white !important;
+    background: none !important;
+}
+
+.list-group-item-view {
+    margin-right: -0.3%;
+    border-color: #00A54F !important;
+}
+
+.img-thumbnail {
+    overflow: hidden;
+}
+
+.h-240 {
+    height: 240px !important;
+}
+
+.h-300 {
+    height: 300px !important;
+}
+
+.view-profile-img {
+    margin-right: -7%;
+}
+
+.row-profile {
+    margin-right: -30%;
+}
+
+.ms-1-5 {
+    margin-left: 0 !important
+}
+
+.active-order-box {
+    margin-left: -2%;
+}
+
+.me-2-5 {
+    margin-left: 2% !important;
+}
+
+.sign-box {
+    width: 450px;
+}
+
+.ban-unban-box {
+    width: 800px;
+}
+
+.box-up {
+    margin-top: -4%;
+    margin-bottom: -2%;
+}
+
+.card-sign {
+    width: 30rem;
+}
+
+.carousel-reztya .carousel-control-prev-icon,
+.carousel-reztya .carousel-control-next-icon {
+    filter: brightness(0) saturate(100%) invert(42%) sepia(75%) saturate(4471%) hue-rotate(133deg) brightness(98%) contrast(102%);
+}
+
+.carousel-reztya .carousel-indicators [data-bs-target] {
+    background-color: #00A54F;
+}
+.carousel-reztya .carousel-caption {
+    color: #00A54F;
+}
+
+.edit-icon {
+    margin-right: -3%;
+}
+
+.btn-add{
+    border-color: #00A54F !important;
+    background-color: #00A54F;
+    padding: 2px 10px 5px 10px;
+}
+
+.btn-add:hover{
+    background-color: #008942 !important;
+}
+
+.btn-edit{
+    padding: 2px 10px 5px 10px;
+}
+
+.btn-delete{
+    padding: 2px 10px 5px 10px;
+}
+
+.table-head-reztya{
+    background-color: #7dc241 !important;
+}
+
+.td-name{
+    width: 302px;
+}
+
+.border-reztya {
+    border-color: #00A54F !important;
+}
+
+.bg-reztya {
+    background-color: #00A54F !important;
+}
+
+.mb--1 {
+    margin-bottom: -10%;
+}
